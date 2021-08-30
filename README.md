@@ -1,7 +1,7 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=cobanov&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=umutnc0&theme=dark&show_icons=true&count_private=true">
 
-# Merhaba, ben Mert Cobanov! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cobanov" alt="cobanov" /> </p>
+# Merhaba, ben Umut Can! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umutcn0" alt="umutcn0" /> </p>
 
 [![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://www.twitter.com/mertcobanov)
 [![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/cobanov)
