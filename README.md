@@ -11,8 +11,7 @@
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umutcn0)
 [![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:n.umut1499@gmail.com)](mailto:mertcobanov@gmail.com)
 
-<p>![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)</p>
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutcn0&layout=compact)](https://github.com/umutcn0/github-readme-stats)</p>
-
+\n![Github stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
+\n[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umutcn0&layout=compact)](https://github.com/umutcn0/github-readme-stats)
 
 
