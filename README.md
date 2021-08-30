@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=umutcn0&theme=dark&show_icons=true&count_private=true">
-
 <h1 align=center> Merhaba 👋, ben Umut Can!</h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutcn0" alt="umutcn0" /> </p>
 
