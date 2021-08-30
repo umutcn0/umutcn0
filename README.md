@@ -11,5 +11,5 @@
 
 <p><img align='left' src="https://github-readme-stats.vercel.app/api?username=umutcn0&theme=dark&show_icons=true&count_private=true" alt="umutcn0" </p>
 <p><br /></p>
-<p><src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutcn0&layout=compact&hide=html" alt="umutcn0" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutcn0&layout=compact&hide=html" alt="umutcn0" /></p>
 
