@@ -10,6 +10,6 @@
 [![Mail Badge](https://img.shields.io/badge/n.umut1499@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:n.umut1499@gmail.com)](mailto:mertcobanov@gmail.com)
 
 <p><img align='left' src="https://github-readme-stats.vercel.app/api?username=umutcn0&theme=dark&show_icons=true&count_private=true" alt="umutcn0" </p>
-<p><br /></p>
+<p><br /><br /><br /><br /><br /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutcn0&layout=compact&hide=html" alt="umutcn0" /></p>
 
