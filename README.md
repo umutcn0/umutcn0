@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **different bots for stock markets**
 - 🌱 I’m currently learning **Flask and Data Science Tools**
-<p><br /></p>
+
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/umut_cn69)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umut-can-0a7417157/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umutcn0)
