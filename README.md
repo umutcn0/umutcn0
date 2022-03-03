@@ -3,8 +3,8 @@
 # Hi 👋, I'm Umut Can!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umutcn0" alt="umutcn0" /> </p>
 
-- 🔭 I’m currently working on **different bots for stock markets**
-- 🌱 I’m currently learning **Flask and Data Science Tools**
+- 🔭 I’m currently working on **Different bots for stock markets like binance.**
+- 🌱 I’m currently learning **JS, React, Flask and Data Science Tools**
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/umut_cn69)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umut-can-0a7417157/)
